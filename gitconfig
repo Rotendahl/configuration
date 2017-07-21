@@ -1,0 +1,11 @@
+[user]
+	name = Benjamin Rotendahl
+	email = Benjamin@Rotendahl.dk
+    signingkey = DDE6662BD8EB3466
+[core]
+	editor = vim
+	excludesfile = /Users/rotendahl/.gitignore_global
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg2

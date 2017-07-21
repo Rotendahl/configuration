@@ -1,2 +1,2 @@
-# configuration
+# Configuration
 A repo that contains my dotfiles and other configuration files  

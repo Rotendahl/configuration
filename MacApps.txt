@@ -1,0 +1,159 @@
+texmaker.app
+mu.app
+mBlock_v3.4.5.app
+love.app
+iTunes.app
+iTerm.app
+iMovie.app
+iBooks.app
+duet.app
+blender.app
+Xcode.app
+Xamarin Workbooks.app
+Xamarin Studio.app
+Xamarin Profiler.app
+Wacom Tablet.localized
+Vivaldi.app
+Visual Studio.app
+VLC.app
+Utilities
+Unity
+Uninstall EpocCam.app
+Typinator.app
+Transmission.app
+TorBrowser.app
+Tomato One.app
+Todoist.app
+Timer.app
+Time Machine.app
+The Unarchiver.app
+TextEdit.app
+TeamViewer.app
+TeX
+System Preferences.app
+SyphonInject.app
+Symbolic Calculator.app
+Suspicious Package.app
+Stickies.app
+Stencyl
+Steam.app
+Spotify.app
+SourceTree.app
+Sonic Pi.app
+SofaPlay.app
+Slack.app
+Skype.app
+Siri.app
+Sequel Pro.app
+Scratch 2.app
+Safari.app
+Resilio Sync.app
+RescueTime.app
+Reminders.app
+Racket v6.6
+QuickTime Player.app
+Processing.app
+Présentation.app
+Preview.app
+Pocket.app
+Pixelmator.app
+Photos.app
+Photo Booth.app
+Parallels Toolbox.app
+Parallels Desktop.app
+Parallels Access.app
+Pages.app
+OpenEmu.app
+OmniPlan.app
+OmniOutliner.app
+OmniGraffle.app
+OmniFocus.app
+OmniDazzle.app
+OBS.app
+Numbers.app
+Notes.app
+NoteBurner iTunes DRM Audio Converter.app
+Mission Control.app
+Microsoft Word.app
+Microsoft Silverlight
+Microsoft PowerPoint.app
+Microsoft Outlook.app
+Microsoft OneNote.app
+Microsoft Excel.app
+Messenger.app
+Messages.app
+MathType 6
+Maps.app
+Maple 2016
+MailButler.app
+Mail.app
+MacVim.app
+MATLAB_R2016b.app
+Logi Options.app
+Launchpad.app
+LEGO MINDSTORMS EV3 Home Edition.app
+Krita.app
+Keynote.app
+Keybase.app
+Karabiner.app
+Karabiner-EventViewer.app
+Karabiner-Elements.app
+Image Capture.app
+HitFilm 4 Express.app
+HandBrake.app
+Graphic.app
+Google Play Music Desktop Player.app
+Google Drive.app
+Google Chrome.app
+GitKraken.app
+GarageBand.app
+GPG Keychain.app
+GIPHY CAPTURE.app
+GIMP.app
+Franz.app
+Frank DeLoupe.app
+Font Book.app
+FocusList.app
+Focus.app
+Flycut.app
+FirefoxDeveloperEdition.app
+Final Cut Pro.app
+FileZilla.app
+Fantastical 2.app
+FaceTime.app
+EpocCam Viewer.app
+EpocCam Viewer Pro.app
+Dropbox.app
+Downcast.app
+Dolphin.app
+Discord.app
+Dictionary.app
+Detexify.app
+Day One.app
+Dashboard.app
+Dash.app
+DVD Player.app
+DB Browser for SQLite.app
+Copay.app
+Contacts.app
+CleanMyMac 3.app
+Chess.app
+Calendar.app
+Calculator.app
+Caffeine.app
+Boris Continuum OFX 9.0
+Blenderplayer.app
+BetterSnapTool.app
+Bear.app
+Beamer.app
+Automator.app
+Audacity
+Atom.app
+Arduino.app
+App Store.app
+Android Studio.app
+Alice.app
+Airmail 3.app
+Adobe Acrobat Reader DC.app
+Adobe
+1Password 6.app

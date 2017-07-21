@@ -57,7 +57,7 @@ alias runServer='open http://localhost:8000 ; python -m SimpleHTTPServer'
 alias kaffe='caffeinate -d -t 3600 &'
 alias vejr='curl wttr.in/Copenhagen'
 alias zshrc='vi /Users/rotendahl/.zshrc'
-alias gitTree='git log --graph --full-history --all --color 
+alias gitTree='git log --graph --full-history --all --color'
 eval "$(thefuck --alias)"
 ################################################################################
 ########################## Activate settings ###################################
